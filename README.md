@@ -1,8 +1,12 @@
-# React + Vite
+# Página de Login e Cadastro com ReactJS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Captura de tela 2024-05-06 184405](https://github.com/DevZank/Login_React/assets/111926496/d5f7fbcd-e7ee-4311-8270-7735bd935407)
 
-Currently, two official plugins are available:
+Este é um projeto de Página de Login e Cadastro desenvolvido com ReactJS. Ele fornece uma interface de usuário amigável e funcional para autenticação e registro de usuários em React.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Como usar
+
+1. Clone este repositório em sua máquina local:
+
+```bash
+git clone https://github.com/seu-usuario/pagina-login-cadastro-react.git
